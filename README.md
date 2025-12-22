@@ -1,4 +1,4 @@
-# CachyOS-Website-Design-Concept-
+# CachyOS-Website-Design-Concept
 
 Add a css, js, and lang folder and place the files there.
 
